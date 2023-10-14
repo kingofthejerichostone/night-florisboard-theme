@@ -2,7 +2,7 @@
 
 > A dark theme for [FlorisBoard](https://github.com/florisboard/florisboard).
 
-![Screenshotflorisboardtheme](./Screenshotflorisboardtheme.png)
+![Screenshot](./Screenshotflorisboardtheme.jpg)
 
 ## Install
 
